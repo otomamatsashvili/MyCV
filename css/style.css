@@ -1,0 +1,96 @@
+body{
+	background-color: #f4f4f4;
+	color: #555;
+	font-family: Arial, Hevetica, sans-serif;
+	font-size: 16px;
+	line-height: 1.6em;
+	margin: 0;
+}
+
+.main-container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+	border: solid;
+	background-color: white;
+	border-color: #0091EA;	
+}
+
+header{
+	text-align: center;	
+	background-color: #0091EA;
+	padding: 50px;
+	line-height: 0.7em;
+}
+
+.circular-portrait {
+	position: relative;
+	border:solid white;
+	text-align: center;
+	width: 200px;
+	height: 200px;
+	margin: auto;
+	overflow: hidden;
+	border-radius: 50%;
+}
+
+.circular-portrait img {
+	width: 100%;
+	margin-top: -25px;
+	height: auto;
+}
+
+h2{
+	margin-bottom: 30px;
+}
+
+pre{
+	color: #555;
+	font-family: Arial, Hevetica, sans-serif;
+	font-size: 16px;
+}
+
+.history{
+	float: left;
+	width: 60%;
+	background-color: white;
+	box-sizing: border-box;
+}
+
+.knowledge{
+	float: right;
+	width: 40%;
+	background-color: white;
+	box-sizing: border-box;	
+}
+
+.container{
+	padding: 20px;
+	margin:auto;
+	overflow: hidden;
+
+}
+
+img .icon{
+	float: left;
+	width: 24px;
+	height: 24px;
+}
+
+.email{
+	text-decoration: none;
+	color: #555;
+}
+
+footer{
+	width: 80%;
+	margin: auto;
+	text-align: center;
+	background-color: #0091EA;
+	padding: 20px;
+}
+
+.profile{
+	margin: 5px;
+}
+
